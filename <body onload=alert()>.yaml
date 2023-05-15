@@ -4,7 +4,7 @@ info:
   name: <script>alert(1)</script>
   author: princechaddha
   severity: info
-  description: HTTP header injection is a general class of web application security vulnerability which occurs when Hypertext Transfer Protocol headers are dynamically generated based on user input.
+  description: <script>alert(1)</script>
   reference:
     - https://portswigger.net/web-security/host-header
     - https://portswigger.net/web-security/host-header/exploiting
